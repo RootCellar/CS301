@@ -1,2 +1,2 @@
-# CS301
-Repository for CS301. May not contain all code.
+# CS301 - Assembly Language Programming
+Repository containing solutions for assembly language problems.
